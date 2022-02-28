@@ -1,0 +1,46 @@
+body {
+  background-color: brown;
+}
+.container {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+h1 {
+  margin: 30px;
+  font-family: cursive;
+  font-size: 4rem;
+  color: blue;
+}
+
+p {
+  font-size: 2rem;
+  color: aquamarine;
+  font-family: cursive;
+}
+
+img {
+  width: 60%;
+}
+footer {
+  font-family: cursive;
+  color: white;
+  text-align: center;
+  font-style: italic;
+}
+
+.btn {
+  background-color: green;
+  color: white;
+  border: none;
+  font-size: 2rem;
+}
+.dave {
+  text-align: center;
+}
